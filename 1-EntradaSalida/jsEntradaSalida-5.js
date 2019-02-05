@@ -2,6 +2,7 @@
 ej.: "Usted se llama José y tiene 66 años" 	*/
 function mostrar()
 {	
-	
+	var nombre;
+	elnombre.value=nombre
 }
 
