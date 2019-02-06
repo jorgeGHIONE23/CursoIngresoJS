@@ -1,0 +1,7 @@
+guia de comandos
+ 
+ 1- git clone (archivo)
+ 2- git add .
+ 3- git commit -m " comentario"
+ 4- git push
+ 
